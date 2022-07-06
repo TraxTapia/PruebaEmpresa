@@ -1,0 +1,12 @@
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Prueba.exe
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\obj\Debug\Prueba.exe
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\obj\Debug\Prueba.pdb
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ivan.tapia\source\Proyectos\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
